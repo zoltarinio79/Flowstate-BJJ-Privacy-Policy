@@ -4,8 +4,8 @@ This repository hosts the Privacy Policy and Terms of Service for the BJJ Traini
 
 ## 📄 Documents
 
-- [Privacy Policy](https://zoltarinio79.github.io/bjj-app-privacy/privacy.html)
-- [Terms of Service](https://zoltarinio79.github.io/bjj-app-privacy/terms.html)
+- [Privacy Policy](https://zoltarinio79.github.io/Flowstate-BJJ-Privacy-Policy/privacy.html
+- [Terms of Service](https://zoltarinio79.github.io/Flowstate-BJJ-Privacy-Policy/terms.html)
 
 
 ## 📧 Contact
