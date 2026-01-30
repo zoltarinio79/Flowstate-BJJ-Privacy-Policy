@@ -10,7 +10,7 @@ This repository hosts the Privacy Policy and Terms of Service for the BJJ Traini
 
 ## 📧 Contact
 
-For questions or concerns, email: support@bjjtraining.app
+For questions or concerns, email: support@bjjflowstate.com
 
 ## 📅 Last Updated
 
