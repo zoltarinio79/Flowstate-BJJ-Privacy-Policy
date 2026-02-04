@@ -1,12 +1,11 @@
-# BJJ Training App - Privacy Policy & Terms of Service
+# Flowstate BJJ - Privacy Policy & Terms of Service
 
-This repository hosts the Privacy Policy and Terms of Service for the BJJ Training mobile application.
+This repository hosts the Privacy Policy and Terms of Service for the Flowstate BJJ mobile application.
 
 ## 📄 Documents
 
 - [Privacy Policy](https://zoltarinio79.github.io/Flowstate-BJJ-Privacy-Policy/privacy.html)
 - [Terms of Service](https://zoltarinio79.github.io/Flowstate-BJJ-Privacy-Policy/terms.html)
-
 
 ## 📧 Contact
 
